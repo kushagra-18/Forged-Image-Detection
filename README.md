@@ -53,9 +53,6 @@ Since this is a classification (predicting fake or not fake) problem, these mode
 * Gradient Boosting
 * Convolutional Neural Network
 
-Here are the results displayed under a ROC Curve.  A ROC Curve is a way to visual the performance of the binary classifier model.  The area under the curve (AUC) measures the performance of a binary classifier averaged across all possible decision thresholds.
-
-![ROC](images/ROC_Curve.png "ROC")
 
 <sup>Generally greater area under the curve, the better.</sup>
 
